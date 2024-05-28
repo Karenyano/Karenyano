@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/karen-yano-3020592b2/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/karen-yano-3020592b2/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
